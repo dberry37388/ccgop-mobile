@@ -1,0 +1,8 @@
+{
+  "name": "CCGOP",
+  "app_id": "f129c35a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
